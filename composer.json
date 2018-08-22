@@ -1,0 +1,13 @@
+{
+    "name": "hugo/pages-module",
+    "authors": [
+        {
+            "name": "hugo",
+            "email": "hugopessanha22@gmail.com"
+        }
+    ],
+    "require": {
+
+        "hugo/pages-module": "dev-master"
+    }
+}
