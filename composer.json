@@ -9,5 +9,10 @@
     "require": {
 
         "hugo/pages-module": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Pages\\": "./"
+        }
     }
 }
